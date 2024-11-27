@@ -17,7 +17,7 @@
 
 <p align="left">
   📬 <strong>Contato:</strong><br>
-  Clique em uma das imagens abaixo para entrar em contato comigo ⤵️
+  Clique em uma das imagens abaixo ⤵️
 </p>
 
 <p align="left">
