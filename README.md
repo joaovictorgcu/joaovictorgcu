@@ -9,10 +9,9 @@
 <p align="left">
   💻 <strong>Linguagens e Tecnologias:</strong><br>
   - Python<br>
-  - Django<br>
+  - C# .NET <br>
   - HTML & CSS<br>
   - JavaScript<br>
-  - IoT<br>
 </p>
 
 <p align="left">
