@@ -9,7 +9,7 @@
 <p align="left">
   💻 <strong>Linguagens e Tecnologias:</strong><br>
   - Python<br>
-  - C# .NET <br>
+  - C# ASP.NET CORE<br>
   - HTML & CSS<br>
   - JavaScript<br>
 </p>
