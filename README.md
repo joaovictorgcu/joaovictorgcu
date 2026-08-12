@@ -24,7 +24,7 @@
   🚀 <strong>Experiência:</strong><br>
   - Software Developer Intern na Globalthings Ltda.<br>
   - Desenvolvimento e manutenção de aplicações web<br>
-  - Desenvolvimento e integração de APIs REST<br>
+  - Desenvolvimento e integração de APIs<br>
   - Trabalho com C#/.NET, PostgreSQL e JavaScript<br>
   - Implementação de novas funcionalidades e correção de bugs
 </p>
