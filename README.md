@@ -17,7 +17,7 @@
   - React<br>
   - HTML & CSS<br>
   - PostgreSQL<br>
-  - REST APIs<br>
+  - APIs<br>
 </p>
 
 <p align="left">
