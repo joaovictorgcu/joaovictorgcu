@@ -1,47 +1,53 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
-  Olá! Meu nome é <strong>João Victor Uchôa</strong>.<br>
-  Sou estudante de <strong>Ciência da Computação</strong> na <strong>Cesar School</strong> e atualmente atuo como <strong>Software Developer Intern na Globalthings Ltda.</strong>
+  <strong>Software Developer Intern @ Globalthings | Computer Science Student @ CESAR School</strong>
 </p>
 
 <p align="left">
-  Tenho interesse em desenvolvimento de software e gosto de aprender na prática, trabalhando na construção, manutenção e evolução de sistemas.
+  Sou estudante de <strong>Ciência da Computação na CESAR School</strong> e atuo como
+  <strong>Software Developer Intern na Globalthings</strong>, trabalhando no desenvolvimento,
+  manutenção e evolução de aplicações e APIs.
 </p>
 
 <p align="left">
-  💻 <strong>Linguagens e Tecnologias:</strong><br>
-  - C# / .NET<br>
-  - Python<br>
-  - JavaScript<br>
-  - React<br>
-  - HTML & CSS<br>
-  - PostgreSQL<br>
-  - APIs<br>
+  Gosto de transformar problemas reais em soluções de software práticas, confiáveis e bem estruturadas,
+  sempre buscando aprender e evoluir através de desafios técnicos.
 </p>
 
 <p align="left">
-  🚀 <strong>Experiência:</strong><br>
-  - Software Developer Intern na Globalthings Ltda.<br>
+  💻 <strong>Tech Stack</strong><br><br>
+  <strong>Backend:</strong> C# • .NET • APIs REST<br>
+  <strong>Frontend:</strong> JavaScript • React • HTML • CSS<br>
+  <strong>Database:</strong> PostgreSQL<br>
+  <strong>Other:</strong> Python • Git • GitHub
+</p>
+
+<p align="left">
+  🚀 <strong>What I do</strong><br><br>
   - Desenvolvimento e manutenção de aplicações web<br>
   - Desenvolvimento e integração de APIs<br>
-  - Trabalho com C#/.NET, PostgreSQL, JavaScript e Python<br>
-  - Implementação de novas funcionalidades e correção de bugs
+  - Implementação e evolução de funcionalidades<br>
+  - Investigação e correção de problemas em sistemas existentes<br>
+  - Trabalho com regras de negócio e persistência de dados<br>
+  - Desenvolvimento utilizando C#/.NET, PostgreSQL, JavaScript e React
 </p>
 
 <p align="left">
-  📬 <strong>Contato:</strong><br>
-  Clique em uma das opções abaixo ⤵️
+  📚 <strong>Currently</strong><br><br>
+  Aprofundando meus conhecimentos em engenharia de software, desenvolvimento backend,
+  arquitetura de aplicações e construção de soluções escaláveis.
+</p>
+
+<p align="left">
+  📬 <strong>Let's connect</strong>
 </p>
 
 <p align="left">
   <a href="mailto:jvgcu@cesar.school">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/-Email-FF0000?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/joao-victor-uchoa/" title="LinkedIn" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/joaovictorgcuchoa/" title="Instagram" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
