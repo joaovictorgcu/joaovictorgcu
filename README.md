@@ -25,7 +25,6 @@
 
 <p align="left">
   🚀 <strong>Experience</strong><br><br>
-
 * Software Developer Intern na Globalthings<br>
 * Desenvolvimento e manutenção de aplicações web<br>
 * Desenvolvimento e integração de APIs REST<br>
@@ -38,10 +37,8 @@
 
 <p align="left">
   📚 <strong>Currently</strong><br><br>
-
 Aprofundando meus conhecimentos em engenharia de software,
 desenvolvimento backend, arquitetura de aplicações, APIs e desenvolvimento web.
-
 </p>
 
 <p align="left">
@@ -52,7 +49,6 @@ desenvolvimento backend, arquitetura de aplicações, APIs e desenvolvimento web
   <a href="mailto:jvgcu@cesar.school">
     <img src="https://img.shields.io/badge/-Email-FF0000?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-
   <a href="https://www.linkedin.com/in/joao-victor-uchoa/" title="LinkedIn" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
