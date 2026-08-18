@@ -11,32 +11,33 @@
 </p>
 
 <p align="left">
-  Gosto de transformar problemas reais em soluções de software práticas, confiáveis e bem estruturadas,
-  sempre buscando aprender e evoluir através de desafios técnicos.
+  Gosto de transformar problemas reais em soluções de software práticas e confiáveis,
+  buscando evoluir constantemente através de desafios técnicos e experiências práticas.
 </p>
 
 <p align="left">
-  💻 <strong>Tech Stack</strong><br><br>
-  <strong>Backend:</strong> C# • .NET • APIs REST<br>
+  💻 <strong>Technologies & Tools</strong><br><br>
+  <strong>Backend:</strong> C# • .NET • Java • Django • APIs REST<br>
   <strong>Frontend:</strong> JavaScript • React • HTML • CSS<br>
+  <strong>Programming:</strong> C • Python<br>
   <strong>Database:</strong> PostgreSQL<br>
-  <strong>Other:</strong> Python • Git • GitHub
+  <strong>Tools:</strong> Git • GitHub
 </p>
 
 <p align="left">
-  🚀 <strong>What I do</strong><br><br>
+  🚀 <strong>Experience</strong><br><br>
+  - Software Developer Intern na Globalthings<br>
   - Desenvolvimento e manutenção de aplicações web<br>
   - Desenvolvimento e integração de APIs<br>
-  - Implementação e evolução de funcionalidades<br>
+  - Implementação de novas funcionalidades<br>
   - Investigação e correção de problemas em sistemas existentes<br>
-  - Trabalho com regras de negócio e persistência de dados<br>
-  - Desenvolvimento utilizando C#/.NET, PostgreSQL, JavaScript e React
+  - Trabalho com regras de negócio e persistência de dados
 </p>
 
 <p align="left">
   📚 <strong>Currently</strong><br><br>
-  Aprofundando meus conhecimentos em engenharia de software, desenvolvimento backend,
-  arquitetura de aplicações e construção de soluções escaláveis.
+  Aprofundando meus conhecimentos em engenharia de software,
+  desenvolvimento backend, arquitetura de aplicações e desenvolvimento web.
 </p>
 
 <p align="left">
