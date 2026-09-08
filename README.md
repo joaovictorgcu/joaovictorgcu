@@ -8,7 +8,7 @@
   </p>
 </div>
 
-<h2>🛠️ Stack</h2>
+<h2>Stack</h2>
 
 <ul>
   <li><strong>Backend:</strong> C# • .NET • ASP.NET • Java • Spring • Python • FastAPI • Django • REST APIs • SOAP</li>
@@ -19,7 +19,7 @@
   <li><strong>Ferramentas:</strong> Git • GitHub • Azure DevOps</li>
 </ul>
 
-<h2>🚀 Experiência</h2>
+<h2>Experiência</h2>
 
 <p><strong>Software Developer Intern — Globalthings</strong> · Atual</p>
 
@@ -33,7 +33,7 @@
   <li>Utilização de Azure DevOps para acompanhamento do desenvolvimento e gerenciamento das entregas</li>
 </ul>
 
-<h2>📚 Atualmente</h2>
+<h2>Atualmente</h2>
 
 <p>
   Aprofundando meus conhecimentos em <strong>backend, C#/.NET, APIs, arquitetura de software,
@@ -41,7 +41,7 @@
   reais e acadêmicos.
 </p>
 
-<h2>📬 Contato</h2>
+<h2>Contato</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/joao-victor-uchoa/" target="_blank">
