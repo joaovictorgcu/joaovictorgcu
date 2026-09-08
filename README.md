@@ -40,7 +40,7 @@
 
 <h2>Experience</h2>
 
-<p><strong>Software Developer Intern — Globalthings</strong> · Present</p>
+<p><strong>Software Developer Intern - Globalthings</strong> · Present</p>
 
 <ul>
   <li>Develop and maintain web systems running in production</li>
