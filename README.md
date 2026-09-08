@@ -1,5 +1,5 @@
 <div align="center">
-<h1>João Victor Uchôa | Software Developer</h1>
+  <h1>João Victor Uchôa | Software Developer</h1>
   <p>
     Estudante de Ciência da Computação na CESAR School e Software Developer Intern na Globalthings,
     atuando no desenvolvimento, manutenção e evolução de sistemas web em produção.<br>
@@ -43,7 +43,11 @@
 
 <h2>📬 Contato</h2>
 
-<p>
-  <a href="https://www.linkedin.com/in/joao-victor-uchoa/" target="_blank">LinkedIn</a> •
-  <a href="mailto:jvgcu@cesar.school">E-mail</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/joao-victor-uchoa/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:jvgcu@cesar.school">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
