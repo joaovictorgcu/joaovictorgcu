@@ -1,55 +1,37 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<div align="center">
+  <h1>Olá, eu sou o João Victor 👋</h1>
+  <p>
+    Estudante de Ciência da Computação na CESAR School e Software Developer Intern na Globalthings,
+    onde trabalho na manutenção e evolução de sistemas web em produção.<br>
+    Meu foco é backend, arquitetura de software e sistemas distribuídos — áreas em que venho me aprofundando hoje.
+  </p>
+</div>
 
-<p align="left">
-  <strong>Software Developer Intern @ Globalthings | Computer Science Student @ CESAR School</strong>
-</p>
+<h2>🛠️ Stack</h2>
 
-<p align="left">
-  Sou estudante de <strong>Ciência da Computação na CESAR School</strong> e atuo como
-  <strong>Software Developer Intern na Globalthings</strong>, trabalhando no desenvolvimento,
-  manutenção e evolução de aplicações e APIs.
-</p>
+<ul>
+  <li><strong>Backend:</strong> C# • .NET • ASP.NET • Java • Spring • Python • FastAPI • Django • REST APIs</li>
+  <li><strong>Frontend:</strong> JavaScript • React • HTML • CSS</li>
+  <li><strong>Banco de dados:</strong> PostgreSQL • PL/pgSQL • SQL • MongoDB</li>
+  <li><strong>Dados:</strong> matplotlib • seaborn</li>
+  <li><strong>Ferramentas:</strong> Git • GitHub • Azure DevOps</li>
+</ul>
 
-<p align="left">
-  Tenho interesse em desenvolvimento de software e gosto de transformar problemas reais
-  em soluções práticas, confiáveis e bem estruturadas. Busco constantemente evoluir
-  minhas habilidades técnicas através de novos desafios e experiências.
-</p>
+<h2>🚀 Experiência</h2>
 
-<p align="left">
-  💻 <strong>Technologies & Tools</strong><br><br>
+<p><strong>Software Developer Intern — Globalthings</strong> · MÊS/ANO – atual</p>
 
-<strong>Backend:</strong> C# • .NET • Java • Django • REST APIs<br> <strong>Frontend:</strong> JavaScript • React • HTML • CSS<br> <strong>Programming:</strong> C • Python<br> <strong>Database:</strong> PostgreSQL<br> <strong>DevOps & Tools:</strong> Azure DevOps • Git • GitHub
+<ul>
+  <li>Manutenção e evolução de sistemas web em produção, incluindo código legado</li>
+  <li>Desenvolvimento e integração de APIs (REST e SOAP), incluindo integração com serviço de relatórios</li>
+  <li>Investigação de falhas em produção a partir de logs, debugging e correção de bugs</li>
+  <li>Implementação de regras de negócio e persistência de dados</li>
+  <li>Criação e execução de cenários de teste e regressão; fluxo de desenvolvimento em Azure DevOps</li>
+</ul>
 
-</p>
+<h2>📬 Contato</h2>
 
-<p align="left">
-  🚀 <strong>Experience</strong><br><br>
-* Software Developer Intern na Globalthings<br>
-* Desenvolvimento e manutenção de aplicações web<br>
-* Desenvolvimento e integração de APIs REST<br>
-* Implementação e evolução de funcionalidades<br>
-* Investigação e correção de problemas em sistemas existentes<br>
-* Trabalho com regras de negócio e persistência de dados<br>
-* Utilização de Azure DevOps para gerenciamento e acompanhamento do desenvolvimento
-
-</p>
-
-<p align="left">
-  📚 <strong>Currently</strong><br><br>
-Aprofundando meus conhecimentos em engenharia de software,
-desenvolvimento backend, arquitetura de aplicações, APIs e desenvolvimento web.
-</p>
-
-<p align="left">
-  📬 <strong>Let's connect</strong>
-</p>
-
-<p align="left">
-  <a href="mailto:jvgcu@cesar.school">
-    <img src="https://img.shields.io/badge/-Email-FF0000?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/joao-victor-uchoa/" title="LinkedIn" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+<p>
+  <a href="https://linkedin.com/in/SEU-PERFIL">LinkedIn</a> •
+  <a href="mailto:SEU@EMAIL.com">E-mail</a>
 </p>
