@@ -4,7 +4,7 @@
 
   <p>
     Computer Science student at CESAR School and Software Developer Intern at Globalthings,
-    working on web systems in production. Interested in backend development, APIs,
+    working with web systems in production. Interested in backend development, APIs,
     software architecture, databases, and distributed systems.
   </p>
 </div>
@@ -19,9 +19,9 @@
 </p>
 
 <p>
-  My main focus is backend development with <strong>C#/.NET</strong>, while continuing
-  to strengthen my knowledge of software architecture, databases, APIs, and
-  distributed systems.
+  My main focus is backend development with <strong>C#/.NET</strong>. I also work with
+  PostgreSQL, REST and SOAP APIs, automated testing, and development workflows using
+  <strong>Azure DevOps</strong>.
 </p>
 
 <h2>Tech Stack</h2>
@@ -54,8 +54,9 @@
 <h2>Currently Learning</h2>
 
 <p>
-  Deepening my knowledge of <strong>backend development, C#/.NET, software architecture,
-  databases, APIs, and distributed systems</strong>.
+  Deepening my knowledge of <strong>C#/.NET, software architecture, databases,
+  APIs, and distributed systems</strong>, while gaining more experience with
+  production software development.
 </p>
 
 <h2>Projects</h2>
