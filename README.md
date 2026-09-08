@@ -4,8 +4,8 @@
 
   <p>
     Computer Science student at CESAR School and Software Developer Intern at Globalthings,
-    working with web systems in production. Interested in backend development, APIs,
-    software architecture, databases, and distributed systems.
+    working on web systems in production. Focused on backend development, APIs,
+    databases, and software engineering.
   </p>
 </div>
 
@@ -20,8 +20,8 @@
 
 <p>
   My main focus is backend development with <strong>C#/.NET</strong>. I also work with
-  PostgreSQL, REST and SOAP APIs, automated testing, and development workflows using
-  <strong>Azure DevOps</strong>.
+  PostgreSQL, REST and SOAP APIs, automated testing, debugging, and development
+  workflows using <strong>Azure DevOps</strong>.
 </p>
 
 <h2>Tech Stack</h2>
@@ -40,7 +40,9 @@
 
 <h2>Experience</h2>
 
-<p><strong>Software Developer Intern - Globalthings</strong> · Present</p>
+<p>
+  <strong>Software Developer Intern - Globalthings</strong> · Present
+</p>
 
 <ul>
   <li>Develop and maintain web systems running in production</li>
@@ -51,26 +53,39 @@
   <li>Create test scenarios and perform regression and API validation</li>
 </ul>
 
+<h2>Projects</h2>
+
+<p>
+  My projects are focused on applying software engineering concepts in practice,
+  combining backend development, databases, APIs, data analysis, and academic work.
+</p>
+
+<p>
+  I use them to explore technologies outside my professional environment,
+  experiment with different approaches to software design, and turn concepts
+  studied at university into working software.
+</p>
+
 <h2>Currently Learning</h2>
 
 <p>
   Deepening my knowledge of <strong>C#/.NET, software architecture, databases,
-  APIs, and distributed systems</strong>, while gaining more experience with
-  production software development.
+  APIs, distributed systems, and backend development</strong>.
 </p>
 
-<h2>Projects</h2>
-
-<p>
-  <strong>More than just code.</strong> My projects focus on solving problems,
-  exploring software engineering concepts, and applying what I learn in practice.
-</p>
+<h2>Contact</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/joao-victor-uchoa/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
   <a href="mailto:jvgcu@cesar.school">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img
+      src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
   </a>
 </p>
