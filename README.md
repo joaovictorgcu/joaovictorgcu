@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Olá, eu sou o João Victor 👋</h1>
+<h1>João Victor Uchôa | Software Developer</h1>
   <p>
     Estudante de Ciência da Computação na CESAR School e Software Developer Intern na Globalthings,
     atuando no desenvolvimento, manutenção e evolução de sistemas web em produção.<br>
