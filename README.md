@@ -1,91 +1,93 @@
 <div align="center">
+
   <h1>João Victor Uchôa</h1>
-  <p><strong>Software Developer | Computer Science Student</strong></p>
+
+  <p>
+    <strong>Software Developer · Computer Science Student</strong>
+  </p>
 
   <p>
     Computer Science student at CESAR School and Software Developer Intern at Globalthings,
-    working on web systems in production. Focused on backend development, APIs,
-    databases, and software engineering.
+    focused on backend development, APIs, databases, and software engineering.
   </p>
+
+  <p>
+    <a href="https://github.com/joaovictorgcu">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+    </a>
+    <a href="https://www.linkedin.com/in/joao-victor-uchoa/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:jvgcu@cesar.school">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+    </a>
+  </p>
+
 </div>
 
-<h2>About</h2>
+---
 
-<p>
-  I work on the development and maintenance of production web systems, including
-  existing and legacy codebases. My day-to-day work involves implementing features,
-  fixing bugs, integrating external services, investigating production issues,
-  and working with business rules and data persistence.
-</p>
+## About
 
-<p>
-  My main focus is backend development with <strong>C#/.NET</strong>. I also work with
-  PostgreSQL, REST and SOAP APIs, automated testing, debugging, and development
-  workflows using <strong>Azure DevOps</strong>.
-</p>
+I work on the development and maintenance of production web systems, including existing and legacy codebases. My work involves implementing features, fixing bugs, integrating external services, investigating production issues, and implementing business rules and data persistence.
 
-<h2>Tech Stack</h2>
+My primary focus is backend development with **C#/.NET**, with experience across **Java, Python, JavaScript, REST APIs, relational databases, automated testing, and software architecture** through professional, academic, and personal projects.
 
-<p>
-  <strong>Backend:</strong> C# • .NET • ASP.NET • Python • REST APIs • SOAP
-  <br>
-  <strong>Frontend:</strong> JavaScript • React • HTML • CSS
-  <br>
-  <strong>Databases:</strong> PostgreSQL • SQL • PL/pgSQL
-  <br>
-  <strong>Testing:</strong> Automated Testing • Regression Testing • API Testing • Debugging
-  <br>
-  <strong>Tools:</strong> Git • GitHub • Azure DevOps
-</p>
+## Tech Stack
 
-<h2>Experience</h2>
+<table>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>C# · .NET · ASP.NET · Java · Spring Boot · Python · Django · FastAPI</td>
+  </tr>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>JavaScript · React · Vite · HTML · CSS · Tailwind CSS</td>
+  </tr>
+  <tr>
+    <td><strong>APIs</strong></td>
+    <td>REST · SOAP · WebSockets</td>
+  </tr>
+  <tr>
+    <td><strong>Databases</strong></td>
+    <td>PostgreSQL · SQLite · SQL</td>
+  </tr>
+  <tr>
+    <td><strong>Testing</strong></td>
+    <td>JUnit · Cucumber · Cypress · Playwright · API Testing</td>
+  </tr>
+  <tr>
+    <td><strong>Tools</strong></td>
+    <td>Git · GitHub · Azure DevOps · Docker · Maven</td>
+  </tr>
+</table>
 
-<p>
-  <strong>Software Developer Intern - Globalthings</strong> · Present
-</p>
+## Experience
 
-<ul>
-  <li>Develop and maintain web systems running in production</li>
-  <li>Implement and integrate REST and SOAP APIs with external services</li>
-  <li>Investigate production issues through logs, debugging, and system analysis</li>
-  <li>Fix bugs and evolve existing features and business rules</li>
-  <li>Work with data persistence and PostgreSQL</li>
-  <li>Create test scenarios and perform regression and API validation</li>
-</ul>
+**Software Developer Intern · Globalthings**
 
-<h2>Projects</h2>
+Working on **Effort CMMS**, a production web system for asset and maintenance management.
 
-<p>
-  My projects are focused on applying software engineering concepts in practice,
-  combining backend development, databases, APIs, data analysis, and academic work.
-</p>
+Developing and maintaining web systems, including legacy codebases, using **C#/.NET, ASP.NET Web Forms, JavaScript, PostgreSQL, Npgsql, and DevExpress**.
 
-<p>
-  I use them to explore technologies outside my professional environment,
-  experiment with different approaches to software design, and turn concepts
-  studied at university into working software.
-</p>
+Developing and integrating **REST and SOAP APIs**, implementing business rules, backend services, and data persistence.
 
-<h2>Currently Learning</h2>
+Investigating production issues through **application logs, debugging, SQL analysis, and root-cause investigation**.
 
-<p>
-  Deepening my knowledge of <strong>C#/.NET, software architecture, databases,
-  APIs, distributed systems, and backend development</strong>.
-</p>
+Tracking development tasks and validating changes across **development and homologation environments** using Azure DevOps.
 
-<h2>Contact</h2>
+## Contact
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/joao-victor-uchoa/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
+<div align="center">
+
+  <a href="https://github.com/joaovictorgcu">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/joao-victor-uchoa/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:jvgcu@cesar.school">
-    <img
-      src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-</p>
+
+</div>
